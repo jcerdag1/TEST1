@@ -1,0 +1,14 @@
+{
+  "buenas": [
+    "buenas/imagen1.jpg",
+    "buenas/imagen2.jpg",
+    "buenas/imagen3.jpg",
+    "buenas/imagen4.jpg"
+  ],
+  "malas": [
+    "malas/imagen1.jpg",
+    "malas/imagen2.jpg",
+    "malas/imagen3.jpg",
+    "malas/imagen4.jpg"
+  ]
+}
